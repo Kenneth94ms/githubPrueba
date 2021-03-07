@@ -2,4 +2,7 @@ var saludo = 'hola'
 
 if(saludo){
   console.log(saludo)
+}else{
+  console.log("No hay saludo")
 }
+
