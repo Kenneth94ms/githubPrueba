@@ -1,0 +1,5 @@
+var saludo = 'hola'
+
+if(saludo){
+  console.log(saludo)
+}
